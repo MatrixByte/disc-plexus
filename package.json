@@ -1,0 +1,28 @@
+{
+  "name": "disc-plexus",
+  "version": "1.0.3",
+  "description": "A Utility Command Package for discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatrixByte/disc-plexus.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord-bot",
+    "discord-utility"
+  ],
+  "author": "MatrixByte",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MatrixByte/disc-plexus/issues"
+  },
+  "homepage": "https://github.com/MatrixByte/disc-plexus#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "is-url": "^1.2.4"
+  }
+}
