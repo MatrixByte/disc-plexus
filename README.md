@@ -1,3 +1,5 @@
+# Disc-Plexus Will Not Be Maintained Anymore, It will Not Receive Any More Updates, This Is the Final Version of Disc-Plexus :O
+
 # About
 - A discord.js Utils Package with qrcode and other utility commands! Works With Slash and Normal Commands!
 
